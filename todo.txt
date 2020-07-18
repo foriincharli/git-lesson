@@ -8,3 +8,6 @@ Install a dog house
 
 This is a long TODO list!
 I made mine a bit shorter :-)
+=======
+Install a dog house and decorate it
+Purchase toys for the dog
