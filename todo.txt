@@ -5,3 +5,6 @@ Paint the floor
 Attach a bench top vice
 Oil the whole place
 Install a dog house
+
+This is a long TODO list!
+I made mine a bit shorter :-)
